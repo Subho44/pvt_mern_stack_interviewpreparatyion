@@ -1,0 +1,8 @@
+.x {
+  border: 2px solid black;
+  width: 600px;
+  height: 1200px;
+  text-align: center;
+  background-color: rgb(160, 160, 244);
+  color: rgb(3, 10, 16);
+}
