@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+display: flex;
+
+background-color: black;
+color: aliceblue;
+padding: 15px;
+justify-content: space-between;
+float: right;
+
+}
+
+
+ul{
+  display: flex;
+  gap:20px
+}
+ li {
+  padding: 10px;
+  text-decoration: none;
+  list-style-type: none;
+  
+}
+ a {
+  text-decoration: none;
+}
