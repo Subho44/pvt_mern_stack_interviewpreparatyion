@@ -1,0 +1,15 @@
+//usestate  
+
+const [state,setState] = usestate(value)
+
+const [form,setForm] = usestate([]);
+
+const [number,setNumber] = usestate(0)
+
+
+
+useeffect((x)=>{
+    //fetch 
+}, []);
+
+
